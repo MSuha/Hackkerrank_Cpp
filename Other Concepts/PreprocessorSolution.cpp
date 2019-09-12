@@ -12,6 +12,7 @@ using namespace std;
 #error Missing preprocessor definitions
 #endif
 
+
 FUNCTION(minimum, <)
 FUNCTION(maximum, >)
 
